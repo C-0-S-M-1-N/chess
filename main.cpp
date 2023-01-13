@@ -122,6 +122,7 @@ int main(){
 		}
 	}
 	
+// 	board[4][3] = w_king;
 
 	sf::Texture __tx;
 	__tx.loadFromFile("textures/board.png");
